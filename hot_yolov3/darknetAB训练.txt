@@ -103,6 +103,7 @@ No obj: 越小越好；
 count: 正样本数目。
 
 win10:
+csdn-darknetAB:https://blog.csdn.net/just_sort/article/details/103967772
 https://blog.csdn.net/just_sort/article/details/103967772
 VS2017配置:https://blog.csdn.net/KID_yuan/article/details/88380269
 如何计算anchor(通过聚类得到): darknet.exe detector calc_anchors data/obj.data -num_of_clusters 9 -width 416 -height 416.
